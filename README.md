@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # wechat_subscription
 微信公众号模拟登陆
 
@@ -7,4 +5,3 @@
 对应博客 https://blog.csdn.net/wgPython/article/details/94719862
 
 未完待续.... 
->>>>>>> d808730afa9ecea81c4e2f86d4aa2538b20488ea
