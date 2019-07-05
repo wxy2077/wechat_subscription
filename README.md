@@ -4,6 +4,8 @@
 ## 声明此代码仅供技术交流学习，擅自用于其他，一切后果与本人无关
 
 如果对你有帮助的话，可以点击star 🌈
-对应博客 https://blog.csdn.net/wgPython/article/details/94719862
+对应博客 
+segmentfault： https://segmentfault.com/a/1190000019673928
+CSDN: https://blog.csdn.net/wgPython/article/details/94719862
 
 未完待续.... 
