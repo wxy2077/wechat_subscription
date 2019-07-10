@@ -11,7 +11,11 @@ Pillow==6.1.0
 ```
 
 如果对你有帮助的话，可以点击star 🌈
-对应博客 https://blog.csdn.net/wgPython/article/details/94719862
+对应博客 
+
+> segmentfault: https://segmentfault.com/a/1190000019673928
+
+csdn: https://blog.csdn.net/wgPython/article/details/94719862
 
 
 
