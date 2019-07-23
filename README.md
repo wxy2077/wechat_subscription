@@ -19,14 +19,14 @@ qiniu   # 七牛云上传sdk
 
 
 # Run
-
+> 我省时间就直接写在一个.py文件里面，flask项目工程文件结构可参考我另一个项目：https://github.com/wgPython/Fantastic
 ```
 
 > python3 app.py
 
 ```
 
-#idea:
+# idea:
 - [x] 封装成API接口，可以管理多个公众号，避免每天重复登陆。
 - [x] 获取当前公众号的历史文章，点赞阅读，粉丝信息，账户信息等等。
 
