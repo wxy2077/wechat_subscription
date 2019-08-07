@@ -1,5 +1,6 @@
 # wechat_subscription
 微信公众号模拟登陆
+目标网址: https://mp.weixin.qq.com/
 
 ## 声明此代码仅供技术交流学习，擅自用于其他，一切后果与本人无关
 
