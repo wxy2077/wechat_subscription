@@ -42,8 +42,8 @@ DoLogin = "https://mp.weixin.qq.com/cgi-bin/bizlogin?action=login"
 # 非管理人员扫描需要二次验证
 TwoVerify = None
 
-username = "1910436287@qq.com"
-password = "wgpython709913"
+username = "xxx"
+password = "xxx"
 
 session = requests.session()
 
